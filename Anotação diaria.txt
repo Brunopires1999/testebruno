@@ -1,3 +1,4 @@
-1 - Ir para o trabalhoi
-2 - Voltar do trabalho
-3 - ir pro curso
+1 - Ir para o trabalho. ok
+2 - Voltar do trabalho. ok
+3 - ir pro curso. ok
+tudo foi concluido.
