@@ -1,6 +1,8 @@
 Tarefas
 
-1 - Comprar lãmpada do banheiro.
-2 - Dar banho no cachorro.
+1 - Comprar lâmpada do banheiro. ok
+2 - Dar banho no cachorro. ok
 3 - Comprar alguma coisa.
+4 - Pagar emprestimo.
+5 - 
 
